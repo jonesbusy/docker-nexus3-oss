@@ -1,4 +1,4 @@
-FROM sonatype/nexus3:3.37.1
+FROM sonatype/nexus3:3.37.2
 
 # Env
 ENV APK_BUNDLE_VERSION=0.0.23
